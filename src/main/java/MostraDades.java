@@ -6,5 +6,10 @@ public class MostraDades {
         //   El meu nom és Ana Garcia Lladonosa
         //   L'any passat vaig estudiar Batxillerat
         //   Tinc 19 anys
+
+        System.out.println("El meu nom és Pau Acero Botero");
+        System.out.println("L'any passat vaig estudiar Batxillerat");
+        System.out.println("Tinc 17 anys");
+    
     }
 }
