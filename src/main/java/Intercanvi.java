@@ -18,18 +18,12 @@ public class Intercanvi {
         System.out.println("B: ");
         b = teclat.nextInt();
 
-        int temporal = a;
+        int auxiliar = a;
         a = b;
-        b = temporal;
+        b = auxiliar;
 
-        System.out.println("a= " + a);
-        System.out.println("b= " + b);
-
-
-
-
-
-
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
 
     }
 }

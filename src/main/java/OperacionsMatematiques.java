@@ -21,8 +21,8 @@ public class OperacionsMatematiques {
         System.out.println("2n nombre:");
         unitat2 = teclat.nextInt();
 
-        int suma = unitat1 - unitat2 ;
-        int resta = unitat1 + unitat2 ;
+        int suma = unitat1 + unitat2 ;
+        int resta = unitat1 - unitat2 ;
         int multiplicació = unitat1 * unitat2 ;
         int divisió = unitat1 / unitat2 ;
  

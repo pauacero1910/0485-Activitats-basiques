@@ -21,7 +21,5 @@ public class AvaluarExpressions {
         System.out.println(a/ (33-b));
         System.out.println(d * 23 - 1 + b);
 
-
-
     }
 }

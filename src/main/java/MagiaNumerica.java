@@ -11,19 +11,11 @@ public class MagiaNumerica {
 
 
         Scanner teclat = new Scanner(System.in);
-        int unitats = 0 ;
+        int num = 0 ;
         System.out.println("Entra el número de unitats:");
-        unitats = teclat.nextInt();
+        num = teclat.nextInt();
 
-        System.out.println("Resultat: " + (((unitats * 3 + 6) / 3) - unitats));
-
-
-
-
-
-
-
-
+        System.out.println("Resultat: " + (((num * 3 + 6) / 3) - num));
 
     }
 }
